@@ -2,7 +2,7 @@ maintainer        "Opscode, Inc."
 maintainer_email  "cookbooks@opscode.com"
 license           "Apache 2.0"
 description       "Installs man-db"
-version           "0.7.1"
+version           "0.7.3"
 
 recipe "man", "Installs man package"
 
