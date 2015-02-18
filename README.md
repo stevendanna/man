@@ -21,9 +21,9 @@ the base role applied to all systems.
 License and Author
 ==================
 
-Author:: Adam Jacob <adam@opscode.com>
+Author:: Adam Jacob <adam@chef.io>
 
-Copyright:: 2008, Opscode, Inc
+Copyright:: 2008, Chef Software, Inc
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
